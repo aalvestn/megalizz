@@ -1,0 +1,23 @@
+.nav.template-erico-5{background-color:#fff;width:100%;padding:32px 0;text-align:center;-webkit-box-shadow:0 2px 5px rgba(0,0,0,.1);box-shadow:0 2px 5px rgba(0,0,0,.1);position:relative;background-position:center 0;-webkit-background-size:cover;background-size:cover;margin-bottom:0}.nav.template-erico-5 .header-logo-text{font-size:22px;line-height:1;color:#56616a}
+
+.col-depoimentos {float:left;width:45%;margin:20px;}
+
+.col-depoimentos:first-child {margin-left:0px;}
+
+
+.col-depoimentos2 {float:left;width:23%;margin-left:20px;}
+
+.col-depoimentos2:first-child {margin-left:0px;}
+
+
+@media only screen and (max-width: 600px) {
+    .col-depoimentos2 {float:left;width:83%;margin-left:0px; text-align: center; margin-top:20px;}
+
+.col-depoimentos2:first-child {margin-left:0px;}
+}
+
+
+
+.sem-margem{margin:0 !important;}
+.sem-margem-left{margin-left:0px;}
+.m10 {margin:10px;}
