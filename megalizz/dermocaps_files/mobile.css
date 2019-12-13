@@ -1,0 +1,57 @@
+@media screen and (max-width: 599px){
+	.new-container{ width: 100%; }
+
+	header{ min-height: auto; padding-bottom: 11px; }
+	.logo img{ width: 42% }
+
+	.mediabox{ padding-top: 20px }
+	.mediabox img{ width: 66%; }
+
+	iframe { width: 100%; }
+
+	.garantia .box-embalagem-natural img{ position: relative; }
+
+	.como-funciona a.btn-comprar, .garantia a.btn-comprar{ line-height: 31px; padding: 30px 7px 20px; }
+
+	.modal-preco p{ margin: 0 15px; }
+	.modal-preco img{ width: 100%; margin-top: 20px; padding: 0 15px; }
+	.btn-mais-um, .btn-normal{ width: 90%; padding: 32px 3px; }
+	
+	footer{ text-align: center; }
+	.fone-atendimento{ margin: 0 auto; }
+
+	footer .rodape img{ width: 41%; }
+	footer .rodape p{ margin-top: 10px; text-align: center; }
+
+}
+
+@media (min-width: 600px) and (max-width: 700px){
+	.new-container{ width: 100%; }
+
+	header{ min-height: auto; padding-bottom: 11px; }
+	.logo img{ width: 42% }
+
+	.mediabox{ padding-top: 20px }
+	.mediabox img{ width: 66%; }
+	.mediabox a{ width: 100%; }
+
+	iframe { width: 100%; height: 200px; }
+
+	.garantia .box-embalagem-natural img{ position: relative; }
+
+	.como-funciona a.btn-comprar, .garantia a.btn-comprar{ line-height: 31px; padding: 30px 7px 20px; }
+
+
+
+	.modal-preco p{ margin: 0 15px; }
+	.modal-preco img{ width: 100%; margin-top: 20px; padding: 0 15px; }
+	.btn-mais-um, .btn-normal{ width: 90%; padding: 32px 3px; }
+	.modal-preco .modal-content{ overflow-y: auto; padding-bottom: 20px; }
+
+	footer{ text-align: center; }
+	.fone-atendimento{ margin: 0 auto; }
+
+	footer .rodape img{ width: 41%; }
+	footer .rodape p{ margin-top: 10px; text-align: center; }
+
+}
